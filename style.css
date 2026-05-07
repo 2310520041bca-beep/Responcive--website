@@ -1,16 +1,16 @@
-/* Remove default spacing */
+
 *{
     margin:0;
     padding:0;
     box-sizing:border-box;
 }
 
-/* Body Styling */
+
 body{
     font-family:Arial, sans-serif;
 }
 
-/* Navbar */
+
 .navbar{
 
     display:flex;
@@ -25,7 +25,7 @@ body{
 
     padding:20px 40px;
 }
-/* HERO SECTION */
+
 .hero{
 
     height:90vh;
@@ -71,19 +71,19 @@ body{
     transition:0.3s;
 }
 
-/* BUTTON HOVER EFFECT */
+
 .hero button:hover{
     background:black;
     color:white;
 }
 
-/* Logo */
+
 .logo{
     font-size:24px;
     font-weight:bold;
 }
 
-/* Navigation Links */
+
 .nav-links{
 
     display:flex;
@@ -93,7 +93,7 @@ body{
     gap:20px;
 }
 
-/* Navigation Link Text */
+
 .nav-links a{
 
     text-decoration:none;
